@@ -1,0 +1,12 @@
+git+https://github.com/pyrogram/pyrogram@master
+py-tgcalls==0.8.1rc1
+parse-torrent-name
+tgcrypto
+youtube_search_python
+youtube_search
+pillow
+motor
+dnspython
+pytz
+apscheduler
+python-dotenv
